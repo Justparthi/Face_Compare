@@ -57,8 +57,8 @@ Our models are optimized for both accuracy and performance, allowing real-time a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/faceverify-ai.git
-cd faceverify-ai
+git clone https://github.com/Justparthi/Face_Compare.git
+cd Face_Compare
 
 # Create a virtual environment
 python -m venv venv
