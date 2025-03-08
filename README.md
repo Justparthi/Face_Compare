@@ -105,4 +105,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For questions, feature requests, or collaboration opportunities, please open an issue on this repository or contact maintainers directly at contact@faceverify-ai.com
+For questions, feature requests, or collaboration opportunities, please open an issue on this repository or contact maintainers directly at justparthiban@gmail.com
